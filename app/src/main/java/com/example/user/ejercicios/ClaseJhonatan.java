@@ -1,3 +1,5 @@
+package com.example.user.ejercicios;
+
 public class ClaseJhonatan {
 
 
